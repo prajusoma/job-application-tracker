@@ -1,3 +1,5 @@
+<img width="1277" height="707" alt="Screenshot 2026-10-28 at 7 46 24 PM" src="https://github.com/user-attachments/assets/1100a6d7-4275-4e44-abea-14ab7d084e7b" />
+<img width="1280" height="681" alt="Screenshot 2026-10-28 at 7 46 38 PM" src="https://github.com/user-attachments/assets/a81ba789-b3d9-4f2d-baeb-0a7cd712e0f3" />
 # ApplyFlow — Job Application Tracker
 
 A polished full-stack MERN application for tracking job applications, interviews, offers, and follow-up dates. Built as a portfolio project with React, Node.js, Express, and MongoDB.
